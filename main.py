@@ -46,12 +46,17 @@ def print_report_end():
 
 
 
-
-if __name__ == "__main__":
+def main():
+    
     print_report_start()
     count_words()
     count_letters_in_file()
     print_report_end()
+
+
+if __name__ == "__main__":
+    
+    main()
 
 
 
