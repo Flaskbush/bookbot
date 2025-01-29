@@ -4,7 +4,7 @@
 
 ### How to use
 
-1. At the root directory of the projet, create a directory named "book": 
+1. At the root directory of the projet, create a directory named "books": 
 
         mkdir books
         
